@@ -1,0 +1,26 @@
+{
+  "name": "counter",
+  "version": "1.0.1",
+  "description": "This is simple stepcounter",
+  "main": "incrementorAndDecrementor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manikrishnaprovility/Counter.git"
+  },
+  "keywords": [
+    "stepcounter",
+    "increment",
+    "and",
+    "decrement",
+    "by"
+  ],
+  "author": "mani krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manikrishnaprovility/Counter/issues"
+  },
+  "homepage": "https://github.com/manikrishnaprovility/Counter#readme"
+}
