@@ -1,9 +1,7 @@
 # Increment & Decrement Counter
 
 > This is a Simple Javascript stepcounter
-<p align="center">
-  <img src="./src/images/calc.png" width="350" title="Calculator">
-</p>
+
 
 ### Demo
 [Demo]()
