@@ -1,6 +1,6 @@
 {
   "name": "counter",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "This is simple stepcounter",
   "main": "incrementorAndDecrementor.js",
   "scripts": {
