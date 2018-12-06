@@ -3,10 +3,6 @@
 > This is a Simple Javascript stepcounter
 
 
-### Demo
-[Demo]()
-
-
 ## Note
 #### Add incrementorAndDecrementor.js to your html file
 
