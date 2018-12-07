@@ -2,6 +2,8 @@
 
 > This is a Simple Javascript stepcounter
 
+### Demo
+[Demo](https://counter-fy5jmna6g.now.sh/)
 
 ## Note
 #### Add incrementorAndDecrementor.js to your html file
